@@ -1,8 +1,21 @@
 <body>
 <h1> International Human Rights Club </h1>
+  
+<h2> Who We Are</h2>
+    We work to imrove awareness in students about human rights and alleviate human rights violations.
+    Our parent organization is Girls Learn International. GLI is focused on imporving girls' access to education globally
+    [link](https://girlslearn.org/) 
+<h4>OFFICERS</h4>
+  
+    -Isabella Heron: Club President. Senior. 
+    -Katie Blair: Officer. Senior.
+    -Tiara Naidu: Officer. Senior.
+    -Rachel Blair: Officer. Junior.
+    -Tsering Shols: Officer. Junior.
+    -Julia Bintz: Officer. Sophomore.
 
 
-# *OFFICERS* 
+
 1. Numbered
 2. List
 
