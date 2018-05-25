@@ -4,8 +4,11 @@
 <head>
   <title>International Human Rights Club</title>
   <style>
+      title{
+            color:#ff54d2
+    }
       h1 {
-            color:#F540B6
+            color:#ff54d2
     }
   </style>
 </head>
