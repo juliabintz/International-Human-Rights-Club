@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   
 <head>
@@ -10,13 +10,23 @@
       h1 {
             color:#ff54d2
     }
+    h2 {
+            color:#ff54d2
+    }
+    p {
+             color:#9E0F68
+    }
+    body
+      { background-color=#D2E8FE
+    }
   </style>
 </head>
 
+
+<body>
 <img
 src="http://camasihrc.weebly.com/uploads/9/8/6/3/98633914/world_orig.png"/>
 
-<body> 
 
     
 <h1> Who We Are</h1>
