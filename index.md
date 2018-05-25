@@ -10,7 +10,7 @@
       h1 {
             color:#ff54d2
     }
-    h2 {
+    h3 {
             color:#ff54d2
     }
    
