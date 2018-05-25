@@ -8,7 +8,7 @@
    
    our parent organizatoin's website: https://girlslearn.org/) 
    our website: http://camasihrc.weebly.com/
-    <h3> How to Participate </h4>
+    <h2> How to Participate </h2>
     
     
     We hold meetings every Thursday in room 710. Come on in to learn about human rights issues and contribute to discussions! 
@@ -19,17 +19,13 @@
     
     
    
-<h4>OFFICERS</h4>
+<h2>OFFICERS</h2>
     -Isabella Heron: Club President. Senior. 
     -Katie Blair: Officer. Senior.
     -Tiara Naidu: Officer. Senior.
     -Rachel Blair: Officer. Junior.
     -Tsering Shols: Officer. Junior.
     -Julia Bintz: Officer. Sophomore.
-
-
-<h5> WHAT'S GOING ON </h5>
-
   
   
   
