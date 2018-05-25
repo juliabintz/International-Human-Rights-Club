@@ -21,7 +21,7 @@ src="http://camasihrc.weebly.com/uploads/9/8/6/3/98633914/world_orig.png"/>
     
     
     
-    <h2> How to Participate </h2>
+  <h2> How to Participate </h2>
    <p> We hold meetings every Thursday in room 710. Come on in to learn about human rights issues and contribute to discussions!<br /><br />
     Our Rachel Blair and Tsering Shola are holding the Women's Empowerment Panel on June 1st. The panel runs from 6:30-7:00pm in the North Commons. Stop by! </p>
      
