@@ -46,13 +46,13 @@ src="http://camasihrc.weebly.com/uploads/9/8/6/3/98633914/world_orig.png"/>
     <p> We are changing our club mission and title! Starting the 2018/2019 school-year our name will be Camas Global Feminist Club. Our mission will be to focus on human rights issues through the feminist lens. This update is <em>so exciting</em> for us! More information regarding the change is to come. </p>
   
 <h1>Officers</h1>
-<ul>
+  <ul>
    <li> -Isabella Heron: Club President. Senior.</li>
    <li> -Katie Blair: Officer. Senior.</li>
-    <li>-Tiara Naidu: Officer. Senior.</li>
-    <li>-Rachel Blair: Officer. Junior.</li>
-    <li>-Tsering Shols: Officer. Junior.</li>
-    <li>-Julia Bintz: Officer. Sophomore.</li>
- </ul>
+   <li>-Tiara Naidu: Officer. Senior.</li>
+   <li>-Rachel Blair: Officer. Junior.</li>
+   <li>-Tsering Shols: Officer. Junior.</li>
+   <li>-Julia Bintz: Officer. Sophomore.</li>
+  </ul>
 </body>
 </html>
