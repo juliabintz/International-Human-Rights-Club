@@ -43,7 +43,7 @@ src="http://camasihrc.weebly.com/uploads/9/8/6/3/98633914/world_orig.png"/>
      
     
  <h1> News </h1>
-    <p> We are changing our club mission and title! Starting the 2018/2019 school-year our name will be Global Feminist Club. Our mission will be to focus on human rights issues through the feminist lens. This update is <em>so exciting</em> for us! More information regarding the change is to come. </p>
+    <p> We are changing our club mission and title! Starting the 2018/2019 school-year our name will be Camas Global Feminist Club. Our mission will be to focus on human rights issues through the feminist lens. This update is <em>so exciting</em> for us! More information regarding the change is to come. </p>
   
 <h3>Officers</h3>
 <ul>
