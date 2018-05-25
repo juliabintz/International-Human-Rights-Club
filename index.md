@@ -13,9 +13,7 @@
     h2 {
             color:#ff54d2
     }
-    p {
-             color:#9E0F68
-    }
+   
     body
       { background-color=#D2E8FE
     }
