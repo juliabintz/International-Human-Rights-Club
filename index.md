@@ -9,7 +9,9 @@
    our parent organizatoin's website: https://girlslearn.org/) 
    our website: http://camasihrc.weebly.com/
     <h3> How to Participate </h4>
-     We hold meetings every Thursday in room 710. Come on in to learn about human rights issues and contribute to discussions! 
+    
+    
+    We hold meetings every Thursday in room 710. Come on in to learn about human rights issues and contribute to discussions! 
     
     
     Our Rachel Blair and Tsering Shola are holding the Women's Empowerment Panel on June 1st. The panel runs from 6:30-7:00pm in the North Commons. Stop by! 
