@@ -5,7 +5,7 @@
   <title>International Human Rights Club</title>
   <style>
       title{
-            color:#ff54d2
+            color:#9E0F6D
     }
       h1 {
             color:#ff54d2
