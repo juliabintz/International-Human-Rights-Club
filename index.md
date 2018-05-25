@@ -2,7 +2,12 @@
 <html>
   
 <head>
-  <title> International Human Rights Club  </title>
+  <title>International Human Rights Club</title>
+  <style>
+      h1 {
+            color:#F540B6
+    }
+  </style>
 </head>
 
 <img
@@ -21,14 +26,16 @@ src="http://camasihrc.weebly.com/uploads/9/8/6/3/98633914/world_orig.png"/>
     
     
     
-  <h2> How to Participate </h2>
+  <h1> How to Participate </h1>
    <p> We hold meetings every Thursday in room 710. Come on in to learn about human rights issues and contribute to discussions!<br /><br />
     Our Rachel Blair and Tsering Shola are holding the Women's Empowerment Panel on June 1st. The panel runs from 6:30-7:00pm in the North Commons. Stop by! </p>
      
     
-    
+ <h1> News </h1>
+    <p> We are changing our club mission and title! Starting the 2018/2019 school-year our name will be Global Feminist Club. Our mission will be to focus on human rights issues through the feminist lens. This update is <em>so exciting</em> for us! More information regarding the change is to come. </p>
+  
    
-<h3>OFFICERS</h3>
+<h1>OFFICERS</h1>
 <ul>
    <li> -Isabella Heron: Club President. Senior.</li>
    <li> -Katie Blair: Officer. Senior.</li>
