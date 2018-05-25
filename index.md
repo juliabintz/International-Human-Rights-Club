@@ -22,7 +22,7 @@ src="http://camasihrc.weebly.com/uploads/9/8/6/3/98633914/world_orig.png"/>
 <h1> Who We Are</h1>
     <p>As a club, it is our goal to provide a space for students to actively learn about and discuss human rights issues. As young citizens growing up in an increasingly complex world, we have a unique opportunity to become educated and motivated to combat human rights issues. Although ambitious, our ultimate objective is to contribute to solutions for the provision of equality and justice for people around the world. Becoming educated on international human rights is the first step in reaching this goal! All are welcome, and we encourage all to become involved with leadership and discussion!
     Our parent organization is Girls Learn International. GLI is focused on imporving girls' access to education globally.<br  /><br /> <a 
-                                                                                                                                           href="https://girlslearn.org/">our parent organization's website</a> 
+                                                                                                                                           href="https://girlslearn.org/">our parent organization's website</a> <br />
         <a
            href="http://camasihrc.weebly.com/">our website</a>
     </p>
