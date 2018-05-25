@@ -15,7 +15,7 @@
     }
    
  background 
-      { color=#D2E8FE
+      { color:#D2E8FE
     }
   </style>
 </head>
