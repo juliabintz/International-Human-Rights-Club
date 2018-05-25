@@ -26,7 +26,3 @@
     -Rachel Blair: Officer. Junior.
     -Tsering Shols: Officer. Junior.
     -Julia Bintz: Officer. Sophomore.
-  
-  
-  
-  </body>
